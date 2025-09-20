@@ -1,0 +1,14 @@
+/* a. Stilizează link-ul către Scoala Informala în albastru */
+#container p a {
+  color: blue;
+}
+
+/* a. Stilizează link-ul către Google în verde */
+#container > a {
+  color: green;
+}
+
+/* b. Stilizează span-ul "some other" în roz */
+p > span {
+  color: pink;
+}
