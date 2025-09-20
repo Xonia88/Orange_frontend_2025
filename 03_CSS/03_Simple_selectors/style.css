@@ -1,0 +1,15 @@
+.text-dark {
+  color: blue;
+}
+h2 {
+  color: green;
+}
+.text-bold {
+  font-weight: bold;
+}
+.text-italic {
+  font-style: italic;
+}
+#second-h2 {
+  color: green;
+}
